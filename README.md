@@ -13,7 +13,7 @@ Para correr o website localmente, com o comando `jekyll serve`, será preciso in
 
 ## Informações e ajuda
 
-Para obteres informações sobre o projecto, por favor entra em contacto connosco nos [Hackdays, no Porto](http://datewithdata.pt/), ou nos forums da [OKFN Portugal](https://discuss.okfn.org/c/local-groups/okpt).
+Para obteres informações sobre o projecto, por favor entra em contacto connosco nos [Hackdays, no Porto](http://datewithdata.pt/), ou nos forums da [OKFN Portugal](https://discuss.okfn.org/t/traducao-do-labs-handbook/2856). Nesse tópico também constará uma "to-do list" de tarefas a fazer para desenvolver a tradução.
 
 Neste momento, a documentação só estará disponível offline. Será preciso ajustar posteriormente.
 
